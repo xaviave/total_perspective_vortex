@@ -1,0 +1,10 @@
+black
+pre-commit
+pipreqs
+argparse
+cached-property
+numpy
+numba
+scikit-learn
+matplotlib
+
